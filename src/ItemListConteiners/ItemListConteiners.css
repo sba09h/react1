@@ -1,0 +1,21 @@
+
+.container {
+  padding: 2rem;
+  text-align: center;
+  background-color: #f89496;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.container h2 {
+  margin: 0;
+  font-size: 4 rem;
+  color: #333;
+}
+
+.body-content {
+  padding-top: 4rem;
+}
